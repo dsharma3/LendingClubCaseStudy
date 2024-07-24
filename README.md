@@ -157,4 +157,6 @@ Multivariate analysis explores the relationships between three or more variables
 - This project was inspired by upgrad case study on lending company.
 
 ## Contact
-Created by [@dsharma3] - feel free to contact me!
+### Feel free to contact us! 
+- Divyesh Sharma [@dsharma3] 
+- Rahul Pandey 
