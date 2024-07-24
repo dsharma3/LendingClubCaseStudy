@@ -1,5 +1,5 @@
 
-# Loan Data Analysis
+# Lending Company Case Study.
 
 This project involves a detailed analysis of loan data to uncover insights and patterns that can be useful for financial decision-making. The notebook processes, analyzes, and visualizes loan data to identify key factors influencing loan status.
 
